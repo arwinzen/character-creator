@@ -30,6 +30,7 @@ function App() {
 
   return (
     <main className={styles.characterEditor}>
+      {/* perspective adds a grey background 40% across the bottom of the screen */}
       <div className={styles.perspective}>
     
       </div>
